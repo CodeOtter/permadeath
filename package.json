@@ -2,7 +2,7 @@
   "name": "permadeath",
   "version": "1.0.0",
   "description": "Permadeath will delete your code if it's runtime throws an error. Only the paranoid survive!",
-  "main": "index.js",
+  "main": "bin/permadeath",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
