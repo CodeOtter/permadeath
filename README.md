@@ -1,3 +1,4 @@
+![Permadeath](https://media.giphy.com/media/VjUROgb2sxf2g/giphy.gif)
 # permadeath
 Think you're a good coder? Only the paranoid survive here.
 
@@ -11,7 +12,7 @@ npm install permadeath
 
 ### CLI
 ```
-./permadeath someFile.js
+./permadeath (--dry-run) someFile.js
 ```
 
 ### Module
