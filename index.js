@@ -1,2 +1,1 @@
-var permadeath = require('./src/permadeath');
-module.exports = permadeath;
+module.exports = require('./lib/permadeath')
