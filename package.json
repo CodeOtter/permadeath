@@ -1,0 +1,24 @@
+{
+  "name": "permadeath",
+  "version": "1.0.0",
+  "description": "Permadeath will delete your code if it's runtime throws an error. Only the paranoid survive!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeOtter/permadeath.git"
+  },
+  "keywords": [
+    "hardcore",
+    "permadeath",
+    "insane"
+  ],
+  "author": "Patrick Ryan <patrick.ryan@codeotter.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeOtter/permadeath/issues"
+  },
+  "homepage": "https://github.com/CodeOtter/permadeath#readme"
+}
