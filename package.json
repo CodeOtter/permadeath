@@ -29,6 +29,7 @@
     "rimraf": "^2.6.1"
   },
   "devDependencies": {
-    "jest": "^19.0.2"
+    "jest": "^19.0.2",
+    "standard": "^9.0.2"
   }
 }
