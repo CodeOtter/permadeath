@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/CodeOtter/permadeath/issues"
   },
-  "homepage": "https://github.com/CodeOtter/permadeath#readme"
+  "homepage": "https://github.com/CodeOtter/permadeath#readme",
+  "dependencies": {
+    "jaro-winkler": "^0.2.8"
+  }
 }

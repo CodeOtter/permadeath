@@ -1,3 +1,5 @@
+var comparison = require('./comparison');
+
 /**
  * [exports description]
  * @param  {[type]} processPath [description]
@@ -29,4 +31,6 @@ module.exports = function permadeath (processPath) {
   child.on('SIGINT', exitHandler.bind(null, 'SIGINT'));
   child.on('uncaughtException', exitHandler.bind(null, 'uncaughtException'));
   child.on('unhandledRejection', exitHandler.bind(null, 'unhandledRejection'));
+
+  comparison(processPath);
 };
