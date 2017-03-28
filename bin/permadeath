@@ -1,3 +1,0 @@
-#!/usr/bin/env node
-var permadeath = require('../src/permadeath');
-permadeath(process.argv[2]);
